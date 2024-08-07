@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UeCapo</string>
+    <string name="accedi_registrati">Accedi o Registrati</string>
+    <string name="nome">Nome</string>
+    <string name="password">Password</string>
+    <string name="trova_parcheggio">Trova Parcheggio</string>
+    <string name="citta">Città</string>
+    <string name="via_piazza">Via / Piazza</string>
+    <string name="dove_vuoi_parcheggiare_oggi">Dove vuoi parcheggiare oggi?</string>
+    <string name="benvenuto">Benvenuto</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
